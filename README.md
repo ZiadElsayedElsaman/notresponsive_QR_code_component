@@ -1,0 +1,1 @@
+# notresponsive_QR_code_component
